@@ -1,6 +1,6 @@
 {
     "name": "brayun/laravel-developer",
-    "require-dev": {
+    "require": {
         "barryvdh/laravel-debugbar": "^3.1",
         "barryvdh/laravel-ide-helper": "^2.4",
         "wikimedia/composer-merge-plugin": "^1.4",
